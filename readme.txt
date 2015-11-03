@@ -1,5 +1,7 @@
 This sample project demonstrates the below:
 
+"Initial commit demo"
+
 1.) Verifying fingerprints from file.
 2.) Identifying fingerprints from database.
 
