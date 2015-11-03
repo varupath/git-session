@@ -1,5 +1,6 @@
 This sample project demonstrates the below:
 "changes made through branch b1"
+"second changes made through b1"
 "Initial commit demo"
 
 1.) Verifying fingerprints from file.
